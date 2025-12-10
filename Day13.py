@@ -109,4 +109,6 @@ print(set3)
 # frozen set => immutable set
 set4=frozenset({"html","css","js"})
 print(set4)
-set4.add("react") # AttributeError: 'frozenset' object has no attribute 'add'
+# set4.add("react")     # AttributeError: 'frozenset' object has no attribute 'add'
+
+

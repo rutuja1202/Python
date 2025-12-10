@@ -1,6 +1,4 @@
 
-
-
 # tuples-
 
 # Is a collection of similar or different type of element
